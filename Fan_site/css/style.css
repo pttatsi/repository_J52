@@ -1,0 +1,23 @@
+/* This is a CSS COMMENT*/
+
+body {
+  background-color:#ffffff;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+
+}
+
+h1{font-family: 'Protest Strike', sans-serif;
+}
+
+.headerbox{
+  background-color: #ABA361;
+}
+
+table{background-color: #732c2c;
+
+}
+
+td{color: #a1e5ab;
+}
+
