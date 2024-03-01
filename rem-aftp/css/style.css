@@ -1,0 +1,27 @@
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+h1{
+  font-family: "Poppins", sans-serif;
+}
+
+.headbox{
+  background-color: #e9cb20;
+  padding: 20px;
+}
+
+.bodytext{
+  width:90%;
+  background-color: #f4f4f4;
+}
+
+.sidebox{
+  width:400px;
+  float:right;
+  background-color:#666666;
+  font-color: #ffffff;
+}
+
