@@ -1,0 +1,26 @@
+.sidebox{
+  width:400px;
+  float:right;
+  font-color: #ffffff;
+}
+
+.topHeader
+{
+  background-color: #21355E;
+  color:#ffffff;
+}
+
+.footer
+{
+  color:#ffffff;
+  background-color:#21355E;
+}
+
+
+.playfair-display-bold
+ {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
