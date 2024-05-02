@@ -1,0 +1,26 @@
+.footer
+{
+font-family: "Poppins", sans-serif;
+}
+
+body{
+	background-color: #950952;
+	font-family: "Poppins", sans-serif;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.customCallout
+{
+	background-color:#ff477e;
+}
